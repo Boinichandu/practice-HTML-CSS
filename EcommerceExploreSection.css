@@ -1,0 +1,36 @@
+.bg-containerExploreSection{
+    background-color: white;
+    padding: 10px;
+
+}
+.heading-Exploreoffer{
+    color: #183b56;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+.card-ExploreSection{
+    color: #183b56;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.img-ExploreSection{
+    border-radius: 12px;
+}
+.para-ExploreSectioncard1{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+
+}
+.card1-ExploreSection {
+    border-radius: 10px;
+}
+.Button-ExploreSection{
+    background-color: transparent;
+    color: #ff9f00;
+    border-width: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
